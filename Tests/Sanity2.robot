@@ -16,5 +16,5 @@ Verify Left Nav contains Links
     wait until page contains  Car Rentals
     wait until page contains  Cruises
     wait until page contains  Destinations
-    wait until page contains  Vacatio
+    wait until page contains  Vacatioon
     close browser
